@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي أنتِ في سكون الليل
+> شوقي إليكِ يفيض مثل السيل
+> أنا هنا يا روحي في كل همس
+> أنت نوري وأنت لي أجمل شمس
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
