@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hayati Enti
+
+This log tracks the cryptographic history and versioning for the song **Hayati Enti** (hayati-enti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:29:40.844118 | `v1` | `b41ca52fef63958c10e2c818a9c314b893f032ebff0e33dc01a65fde3cd1c08f` | `9cf35123352b03c6a3bf9c4c627ec150b8ad71956de3492420af45ca35e55ed6` | `2026-05-09_hayati-enti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
